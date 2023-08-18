@@ -1,5 +1,5 @@
 {
-  "name": "storefront",
+  "name": "web",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "logger": "workspace:*",
-    "next": "^13.4.1",
+    "next": "^13.4.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "ui": "workspace:*"
